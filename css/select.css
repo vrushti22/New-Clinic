@@ -1,0 +1,31 @@
+#mySelect {
+        width:90%;
+        margin: 10px;
+		color:#146eb4;
+		background-color: #CDDCDC;
+		font-weight:bold;
+		font-size:25px;
+}
+.options
+{
+	background-color:#FFFFFF;
+	
+}
+#submitbtn{
+	padding: 6px 20px;
+    background-color: #146eb4;
+    color: white;
+	border:none;
+	outline:none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  
+}
+#submitbtn:hover {
+    background-color: #ff9900;
+    color: white;
+}
+#submitbtn:hover {
+    background-color: #ff9900;
+    color: white;
+}
